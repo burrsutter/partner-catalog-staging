@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.burrsutter</groupId>
-	<artifactId>partner-catalog</artifactId>
+	<artifactId>partner-catalog-private</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>partner-catalog-staging</name>
 	<description>Example of many CVEs</description>
